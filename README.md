@@ -1,6 +1,6 @@
 # Receipify
 
-Welcome to Receipify.
+Welcome to Receipify!
 
 Sometimes, choosing what to cook is more complicated than cooking itself. 
 
